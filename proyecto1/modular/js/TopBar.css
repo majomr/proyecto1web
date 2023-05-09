@@ -1,0 +1,15 @@
+.topBar {
+    background-color: #20232c;
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-right: 40px;
+    padding-left: 90px;
+    vertical-align: middle;
+}
+.sb2{
+    margin-left: 80px;
+    margin-top: -5px;
+    margin-bottom: 5px;
+    margin-right: 55px;
+}

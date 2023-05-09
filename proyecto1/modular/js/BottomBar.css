@@ -1,0 +1,22 @@
+
+.bar {
+    background-color: #20232c;
+    display: flex;
+    height: fit-content;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-right: 120px;
+    padding-left: 40px;
+    justify-content: space-between;
+    vertical-align: middle;
+}
+
+.text {
+    color: gray;
+    font-family: sans-serif;
+    font-size: 13px
+}
+
+.part1 {
+    margin-right: -350px;
+}

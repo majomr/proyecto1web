@@ -1,0 +1,13 @@
+
+.cartelera2  {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    background-color: white;
+    padding-top: 30px;
+    padding-bottom: 55px;
+    padding-left: 85px;
+    padding-right: 85px;
+    border-radius: 30px;
+    justify-content: center;
+    height: 550px;
+}

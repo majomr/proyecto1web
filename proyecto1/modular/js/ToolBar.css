@@ -1,0 +1,21 @@
+.toolbar {
+    display: flex
+}
+
+.iconcss {
+    border: 2px solid gray;
+    height: 35px;
+    width: 35px;
+    border-radius: 30px;
+    margin-right: 5px;
+}
+.iconcss:hover {
+    background-color: #ffc420;
+    border: 2px solid #ffc420;
+}
+.iconcss2 {
+    size: 20px;
+    color: white;
+    margin-top: 10px;
+    margin-left: 10px;
+}

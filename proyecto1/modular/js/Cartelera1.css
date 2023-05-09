@@ -1,0 +1,21 @@
+.cartelera1 {
+    display: flex;
+    overflow-x: auto;
+    object-fit: contain;
+}
+.nav {
+    vertical-align: middle;
+}
+.buttonnav {
+    border-radius: 50%;
+    width: 2px;
+    height: 12px;
+    margin: 3px;
+    border: none;
+    background-color: lightgray;
+}
+.buttonnav:focus{
+    width: 15px;
+    height: 15px;
+    background-color: black;
+}

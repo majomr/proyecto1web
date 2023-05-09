@@ -1,0 +1,32 @@
+.country {
+    width: fit-content;
+    vertical-align: middle;
+    padding-left: 0px;
+    padding-top: 5px
+}
+
+.titlecss {
+    color: #ffc420;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+.countryContainer {
+    display: flex;
+    border: 1px solid  rgb(173, 173, 173);
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    padding-left: 15px;
+    padding-right: 15px;
+    height: 40px;
+    width: 110px;
+}
+.countryContainer:hover {
+    background-color: rgb(173, 173, 173);
+}
+.countryIcon {
+    color: white;
+    margin-left: 10px;
+}
+ 
